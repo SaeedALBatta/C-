@@ -18,3 +18,5 @@
 /C#Tasks_Methods_Section_4_LINQ/.vs
 /C#Tasks_Methods_Section_3_LinkedList/.vs
 /C#Tasks_Methods_Section_2/.vs
+bin/
+obj/
