@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#_Tasks_Discord_Function(1)", "C#_Tasks_Discord_Function(1)\C#_Tasks_Discord_Function(1).csproj", "{A964482F-6A00-4719-AFD8-17709611236F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A964482F-6A00-4719-AFD8-17709611236F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A964482F-6A00-4719-AFD8-17709611236F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A964482F-6A00-4719-AFD8-17709611236F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A964482F-6A00-4719-AFD8-17709611236F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {159D9D03-7F10-48EE-809A-1E71143BEE95}
+	EndGlobalSection
+EndGlobal
