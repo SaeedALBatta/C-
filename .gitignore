@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/C#Tasks_Methods_Section/.vs
+/.vs/C-/v17
